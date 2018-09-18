@@ -1,4 +1,5 @@
 ﻿  Source.cpp
-c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(37): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(76): warning C4018: <: несоответствие типов со знаком и без знака
   Tekom_logger.vcxproj -> C:\Users\ogenkidesuka\source\repos\Tekom_logger\Debug\Tekom_logger.exe

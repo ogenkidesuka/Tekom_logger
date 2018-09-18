@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  Tekom_logger.vcxproj -> C:\Users\admin\IdeaProjects\dev\Tekom_logger\x64\Debug\Tekom_logger.exe
+c:\users\ogenkidesuka\source\repos\tekom_logger\tekom_logger\logger.h(56): warning C4267: return: преобразование из "size_t" в "uint"; возможна потеря данных
+  Tekom_logger.vcxproj -> C:\Users\ogenkidesuka\source\repos\Tekom_logger\x64\Debug\Tekom_logger.exe
